@@ -4,7 +4,7 @@ import { Link, navigate } from 'gatsby';
 import { isAuth } from '../../helpers/general';
 
 import AddNotification from '../AddNotification';
-import Brand from '../Brand';
+// import Brand from '../Brand';
 import Container from '../Container';
 import Config from '../../config.json';
 import Drawer from '../Drawer';
